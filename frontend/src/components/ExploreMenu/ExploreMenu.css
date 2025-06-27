@@ -19,7 +19,7 @@
     align-items: center;
     gap: 30px;
     text-align: center;
-    margin: 20px;
+    margin: 20px 0px;
     overflow-x: scroll;
 }
 .explore-menu-list::-webkit-scrollbar{

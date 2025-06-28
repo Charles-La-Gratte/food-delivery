@@ -8,7 +8,9 @@ import { menu_list } from '../../assets/assets'
   return (
     <div className='explore-menu' id='explore-menu'>
         <h1>Explore our menu</h1>
-        <p className='explore-menu-text'>Lorem ipsum dolor sit amet consectetur adipiscing elit sollicitudin sapien montes imperdiet platea habitant, potenti fusce et lacus dis ridiculus vestibulum nullam proin quam ligula. Suscipit purus ridiculus dictum euismod bibendum mattis mauris at interdum, ante</p>
+        <p className='explore-menu-text'>Discover the heart of African cuisine with our curated menu, featuring rich, bold, and unforgettable flavors.
+        From hearty stews and spicy rice dishes to tasty street snacks and refreshing drinks, there is something for every craving.
+        Select a category below and dive into the AfroTastes experience.</p>
         <div className="explore-menu-list">
             {menu_list.map((item,index)=>{
                 return (

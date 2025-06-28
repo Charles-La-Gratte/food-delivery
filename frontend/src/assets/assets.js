@@ -1,5 +1,5 @@
 import basket_icon from './basket_icon.png'
-import logo from './logo.png'
+import logo from './logo1.png'
 import header_img from './header_img.png'
 import search_icon from './search_icon.png'
 import menu_1 from './menu_1.png'
@@ -84,15 +84,15 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "Salad",
+        menu_name: "Meat & Fish",
         menu_image: menu_1
     },
     {
-        menu_name: "Rolls",
+        menu_name: "Soups",
         menu_image: menu_2
     },
     {
-        menu_name: "Deserts",
+        menu_name: "Grilled",
         menu_image: menu_3
     },
     {
@@ -104,15 +104,15 @@ export const menu_list = [
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Rice Dishes",
         menu_image: menu_6
     },
     {
-        menu_name: "Pasta",
+        menu_name: "Desserts",
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
+        menu_name: "Vegetarian",
         menu_image: menu_8
     }]
 

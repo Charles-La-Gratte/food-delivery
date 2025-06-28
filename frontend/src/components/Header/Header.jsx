@@ -5,7 +5,12 @@ const Header = () => {
     <div className='header'>
         <div className="header-contents">
           <h2>Order your favorite food here</h2>  
-          <p>Lorem ipsum dolor sit amet consectetur adipiscing elit, suscipit curae eleifend praesent nullam elementum, duis dictum ad faucibus feugiat posuere. Leo hendrerit justo sagittis dignissim felis nam lacinia, tempus est vitae etiam auctor consequat, fusce sociosqu quisque nullam ridiculus commodo.</p>
+          <p>AfroTastes – Authentic African Meals Delivered to Your Door
+           Craving a taste of home or curious to explore the rich flavors of Africa?
+           AfroTastes brings you freshly prepared African dishes—from jollof rice and fufu to puff-puff and zobo—right on campus or at your doorstep.
+           Made with love, tradition, and premium ingredients.
+           Order now and enjoy a delicious journey across Africa—one bite at a time.
+           </p>
           <button>View Menu</button>
         </div>
     </div>

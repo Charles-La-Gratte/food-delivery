@@ -1,10 +1,12 @@
 .header{
-    height: 34vw;
+    height: 28vw;
     margin: 30px auto;
     background:  url('/header_img.jpg') no-repeat;
     border-radius: 40px;
     background-size: cover;
     position: relative;
+    margin-top: -10px;
+    margin-bottom: 10px;
 }
 
 .header-contents{
